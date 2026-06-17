@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "797bddd9771818786591b0feedec02a1"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "a458537e323cdb9a02f0334688dc8e45"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "da6e9be0fa855edd3610e97c1d4e38d9"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "db7a60d18d73d288626aefa1a3c54d83"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "2486f7b4d11031296d90f329345a3635"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "66112a161d5939d966ce2b20c13988d9"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/stihi-v-podarok",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/stihi-v-podarok/index.html",
+        "type": "file",
+        "md5": "16578e1a2d41adaf029c31e460dedeb9"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2cddbf5b0b03f08a5734ae04b0f4e899"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "50e08d4286f07920a4ed2ad5a616b1f1"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "35936bfdd04d669964a2d6f9e11b3f3b"
+    },
+    {
+        "path": "kak-eto-rabotaet.html",
+        "type": "file",
+        "md5": "677547f62a62d7e370760ea42a031989"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/birthday-cake-svgrepo-com2.svg",
+        "type": "file",
+        "md5": "ed6e5217eeba34841b98834141e5b2d0"
+    },
+    {
+        "path": "otzyvy.html",
+        "type": "file",
+        "md5": "f9f233ed23a0bce0e70fe0da01d7fa69"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "c51d543106bfa3531eacba0e6f2c4ab9"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "2d71050a4c935f22ebb39186eea00d67"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "3554394f4a6f5bb6a18bf9f84b880bf0"
+    },
+    {
+        "path": "tarify-na-sozdanie-personalnyh-stihotvornyh-pozdravleniy.html",
+        "type": "file",
+        "md5": "e6c94a48881990f4489da2e496e2b4b5"
+    },
+    {
+        "path": "voprosy-i-otvety.html",
+        "type": "file",
+        "md5": "92811e5344cc443188977fc0c53debb5"
+    },
+    {
+        "path": "zachem-darit-stihi-v-podarok.html",
+        "type": "file",
+        "md5": "b777179a7e7e30724fef07bd2a296638"
+    }
+]
